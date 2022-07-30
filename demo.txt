@@ -3,3 +3,4 @@ ading my second line
 trying to push my third line without pulling
 third line was created by using direct method
 iam editing this from developer1 branch
+showing push to branch
